@@ -4,20 +4,20 @@ const { url, thumbnail, title, description, pubDate } = Astro.props
 
 <a
   href={url}
-  class="rounded-base border-border bg-main text-main-foreground shadow-shadow hover:translate-x-boxShadowX hover:translate-y-boxShadowY border-2 p-4 transition-all last:mb-0 hover:shadow-none"
+  class="rounded-base border-border bg-main text-main-foreground shadow-shadow hover:translate-x-boxShadowX hover:translate-y-boxShadowY border-2 transition-all last:mb-0 hover:shadow-none"
   >
    <img
     src={thumbnail}
     alt={title}
-    class="mb-4 w-full h-48 object-cover rounded-lg"
+    class=" mb-4 w-full h-50 object-cover rounded-lg"
   />
-  <h2 class="font-heading w500:text-lg text-xl">
+  <h2 class="ps-4 font-heading w500:text-lg text-xl">
     {title}
   </h2>
-  <p class="w500:text-sm mt-3 mb-5">
+  <p class="ps-4 w500:text-sm mt-3 mb-2">
     {description}
   </p>
-  <div class="flex w-max items-center">
+  <div class="p-4 flex w-max items-center">
     <svg
       xmlns="http://www.w3.org/2000/svg"
       class="w500:h-3 w500:w-3 mr-3 h-4 w-4"

@@ -4,7 +4,6 @@ type Config = {
   thumbnail: string
   author: string
   title: string
-  description: string
   lang: string
   themes: {
     dark: ThemeObjectOrShikiThemeName
@@ -13,10 +12,9 @@ type Config = {
 }
 
 export default {
-  author: 'John Doe',
-  title: 'Neobrutalism blog template',
-  description: 'Lorem ipsum dolor sit amet',
-  lang: 'en',
+  author: 'Aymen',
+  title: 'Journal',
+  lang: 'ar',
   themes: {
     dark: 'github-dark',
     light: 'github-light',

@@ -1,6 +1,6 @@
 ---
+thumbnail: '/thumbnail/13.jpg'
 title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax.'
 pubDate: 'Jan 07 2024'
 tags: ['guide', 'style', 'markdown']
 ---

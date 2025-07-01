@@ -1,6 +1,6 @@
 ---
+thumbnail: '/thumbnail/test.png'
 title: "Second post"
-description: "Lorem ipsum dolor sit amet"
 pubDate: "Jan 01 2024"
 tags: ["astro", "blogging", "learning"]
 ---
