@@ -42,8 +42,10 @@
   --breakpoint-m400: max-width: 400px;
 }
 
-body {
+* {
   direction: rtl;
+}
+body {
   font-family: 'Inter', sans-serif;
 }
 
