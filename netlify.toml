@@ -1,0 +1,4 @@
+[build]
+  command = "bash netlify-build.sh"
+  publish = "dist"  # or "build" or whatever your Astro output folder is
+
