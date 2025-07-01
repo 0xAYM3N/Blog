@@ -1,4 +1,5 @@
 ---
+thumbnail: '/thumbnail/test.png'
 title: 'First post'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Dec 22 2023'

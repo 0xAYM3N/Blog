@@ -1,6 +1,7 @@
 import type { ThemeObjectOrShikiThemeName } from 'astro-expressive-code'
 
 type Config = {
+  thumbnail: string
   author: string
   title: string
   description: string

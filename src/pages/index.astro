@@ -19,6 +19,7 @@ const sortedPosts = allPosts.sort(
     {
       sortedPosts.map((post) => (
         <PostPreview
+          thumbnail={post.data.thumbnail}
           url={post.slug}
           title={post.data.title}
           description={post.data.description}
