@@ -15,7 +15,6 @@
   --border: oklch(88% 0.01 85);
 }
 
-
 .dark {
   --background: oklch(20% 0.02 260);
   --secondary-background: oklch(25% 0.015 260);
@@ -35,17 +34,15 @@
 
   --radius-base: 10px;
   --font-weight-base: 500;
-  --font-weight-heading: 700;
+  --font-weight-heading: 400;
 
   --breakpoint-m700: max-width: 700px;
   --breakpoint-m500: max-width: 500px;
   --breakpoint-m400: max-width: 400px;
 }
 
-* {
-  direction: rtl;
-}
 body {
+  direction: rtl;
   font-family: 'Inter', sans-serif;
 }
 
