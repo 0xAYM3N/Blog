@@ -43,6 +43,7 @@
 }
 
 body {
+  direction: rtl;
   font-family: 'Inter', sans-serif;
 }
 
