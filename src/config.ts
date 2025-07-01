@@ -14,6 +14,7 @@ type Config = {
 export default {
   author: 'Aymen',
   title: 'Journal',
+  description: 'Aymen is Blogging',
   lang: 'ar',
   themes: {
     dark: 'github-dark',
