@@ -1,5 +1,5 @@
 ---
-thumbnail: '/thumbnail/test.png'
+thumbnail: '/thumbnail/firstBlog.png'
 title: 'First post'
 pubDate: 'Dec 22 2023'
 tags: ['astro', 'blogging', 'learning']

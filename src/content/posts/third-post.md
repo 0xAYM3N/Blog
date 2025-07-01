@@ -1,5 +1,5 @@
 ---
-thumbnail: '/thumbnail/test.png'
+thumbnail: '/thumbnail/13.jpg'
 title: "Third post"
 pubDate: "Jan 04 2024"
 tags: ["astro", "blogging", "learning"]
