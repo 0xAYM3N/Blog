@@ -1,5 +1,5 @@
 ---
-thumbnail: '/thumbnail/firstBlog.png'
+thumbnail: '/thumbnail/firstBlog.webp'
 title: 'الغيث يبدأ بقطرة'
 pubDate: 'Dec 22 2023'
 tags: ['astro', 'blogging', 'learning']
