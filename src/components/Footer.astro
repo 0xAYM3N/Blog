@@ -1,7 +1,5 @@
 ---
 import { FaGithub, FaTwitter, FaInstagram } from 'react-icons/fa';
-
-const currentYear = new Date().getFullYear();
 ---
 
 <footer class="mt-20 flex flex-col items-center justify-center h-[140px] text-center border-t border-[color:var(--color-border)] bg-[color:var(--color-background)] text-[color:var(--color-foreground)] px-4 space-y-4">
@@ -10,15 +8,15 @@ const currentYear = new Date().getFullYear();
 
   <div class="flex items-center gap-8 rtl:flex-row-reverse">
     <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" aria-label="GitHub" class="hover:opacity-80 transition">
-      <FaGithub size={25} class="text-[color:var(--color-foreground)]" />
+      <FaGithub size={25} className="text-[color:var(--color-foreground)]" />
     </a>
 
     <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" aria-label="Twitter" class="hover:opacity-80 transition">
-      <FaTwitter size={25} class="text-[color:var(--color-foreground)]" />
+      <FaTwitter size={25} className="text-[color:var(--color-foreground)]" />
     </a>
 
     <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="hover:opacity-80 transition">
-      <FaInstagram size={25} class="text-[color:var(--color-foreground)]" />
+      <FaInstagram size={25} className="text-[color:var(--color-foreground)]" />
     </a>
   </div>
 
