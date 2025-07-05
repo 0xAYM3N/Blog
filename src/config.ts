@@ -13,7 +13,7 @@ type Config = {
 
 export default {
   author: 'Aymen',
-  title: 'Journal',
+  title: '0xJournal',
   description: 'Aymen is Blogging',
   lang: 'ar',
   themes: {
