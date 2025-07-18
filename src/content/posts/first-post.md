@@ -1,6 +1,6 @@
 ---
 thumbnail: /thumbnail/firstBlog.webp
-title: الغيث يبدأ بقطرة
+title: لغة php
 pubDate: Dec 22 2023
 tags: [Welcome]
 ---
