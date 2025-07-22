@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
 
 @import 'tailwindcss';
 @import 'tw-animate-css';
@@ -34,7 +36,7 @@
   --color-border: var(--border);
 
   --radius-base: 10px;
-  --font-weight-base: 500;
+  --font-weight-base: 400;
   --font-weight-heading: 400;
 
   --breakpoint-m700: max-width: 700px;
