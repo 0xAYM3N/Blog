@@ -28,9 +28,9 @@ const { tag } = Astro.params
 const { posts } = Astro.props
 ---
 
-<Base meta={{ title: 'Posts tagged with ' + tag }}>
+<Base meta={{ title: 'المقالات التي تحمل تصنيف ' + tag }}>
   <h2 class="font-heading w500:text-lg mb-10 text-2xl tracking-wide">
-    Posts tagged with <span class="text-foreground">#{tag}</span>
+    المقالات التي تحمل تصنيف <span class="text-foreground">#{tag}</span>
   </h2>
   <div class="w700:grid-cols-1 grid grid-cols-2 gap-5">
     {

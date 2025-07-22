@@ -12,12 +12,26 @@ const sortedPosts = allPosts.sort(
     // eslint-disable-next-line prettier/prettier
     new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
 )
+
+const latestPost = sortedPosts[0]
+const otherPosts = sortedPosts.slice(1)
 ---
 
 <Base meta={{ title: config.title }}>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+    <h2 class="col-span-full mb-2 text-2xl font-bold">جديد</h2>
+    <PostPreview
+      thumbnail={latestPost.data.thumbnail}
+      url={latestPost.slug}
+      title={latestPost.data.title}
+      pubDate={latestPost.data.pubDate}
+    />
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10">
+    <h2 class="col-span-full text-2xl font-bold">مقالات اخرى</h2>
     {
-      sortedPosts.map((post) => (
+      otherPosts.map((post) => (
         <PostPreview
           thumbnail={post.data.thumbnail}
           url={post.slug}

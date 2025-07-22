@@ -2,7 +2,7 @@
 thumbnail: /thumbnail/firstBlog.webp
 title: لغة php
 pubDate: Dec 22 2023
-tags: [Welcome]
+tags: [php]
 ---
 
 ### **مقدمة**
