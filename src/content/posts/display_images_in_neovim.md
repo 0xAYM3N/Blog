@@ -1,5 +1,5 @@
 ---
-thumbnail: /thumbnail/display_images_in_neovim.png
+thumbnail: /thumbnail/display_images_in_neovim.webp
 title: عرض الصور في نيوفيم
 pubDate: March 21 2026
 tags:
