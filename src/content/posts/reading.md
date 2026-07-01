@@ -27,9 +27,9 @@ tags:
 
 ومن أشهر هذه المنصات:
 
-- <a href="https://www.noor-book.com/" target="_blank"><b>مكتبة نور<b></a></br>
-- <a href="https://maktbity.org/" target="_blank"><b>مكتبتي<b></a></br>
-- <a href="https://foulabook.com/" target="_blank"><b>فولة بوك<b></a></br>
+- <a href="https://www.noor-book.com/" target="_blank"><b>مكتبة نور</b></a></br>
+- <a href="https://maktbity.org/" target="_blank"><b>مكتبتي</b></a></br>
+- <a href="https://foulabook.com/" target="_blank"><b>فولة بوك</b></a></br>
 
 ### **الخاتمة**
 في الختام، تعد القراءة استثمارا في النفس، فهي توسع المدارك، وتنمي التفكير، وتزيد من رصيد الإنسان العلمي والثقافي. ولا يشترط أن تقرأ لساعات طويلة أو أن تنهي عشرات الكتب في وقت قصير، بل يكفي أن تجعل القراءة عادة يومية ولو لوقت يسير.
