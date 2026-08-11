@@ -43,9 +43,13 @@
   --breakpoint-m400: max-width: 400px;
 }
 
+::selection {
+  background: #2d4f677a;
+}
+
 body {
   direction: rtl;
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 mark {
