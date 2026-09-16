@@ -2,7 +2,7 @@
 thumbnail: /thumbnail/Web_design_units.webp
 title: وحدات القياس في تصميم الويب
 pubDate: August 2 2025
-tags: [Web_design_units, web]
+tags: [Web_design_units, web, tech]
 ---
 
 ### **المقدمة**

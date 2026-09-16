@@ -2,9 +2,7 @@
 thumbnail: /thumbnail/reading.webp
 title: القراءة
 pubDate: July 1 2026
-tags:
-- Reading
-- Books
+tags: [ Reading, Books]
 ---
 
 ### **مقدمة** 
